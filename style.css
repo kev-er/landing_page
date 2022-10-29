@@ -45,12 +45,13 @@
 .wrapper_img { 
     flex-direction: row;
     margin: auto;
+    max-width: 400px;
 }
 
 .left-hero {
     justify-content: flex-end;
     flex-direction: row-reverse;
-    flex-basis: 50%;
+    flex-basis: 40%;
 }
 
    ul li a {
